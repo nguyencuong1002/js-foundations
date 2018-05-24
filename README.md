@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercise 2 - Scoping
 
 1. This exercise is a work-log (aka timesheet) application. Run the fixed version of the exercise ("ex2-fixed.html") in your browser and play around to see the expected behavior.
 
@@ -13,7 +13,7 @@
 4. **BONUS:** How would you describe to a coworker or boss the improvements in readability after applying your knowledge of scoped declarations to this code? Write out a few sentences.
 
 
-# Exercise 3
+# Exercise 3 - Hoisting
 
 1. This exercise is a work-log (aka timesheet) application. Run the fixed version of the exercise ("ex3-fixed.html") in your browser and play around to see the expected behavior.
 
