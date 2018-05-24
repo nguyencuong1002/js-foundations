@@ -58,3 +58,7 @@
 	width: 60px;
 	text-align: right;
 }
+
+.project-entry > .work-entries > .work-entry > .work-description.shortened {
+	cursor: pointer;
+}
