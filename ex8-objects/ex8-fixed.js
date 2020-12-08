@@ -1,5 +1,5 @@
 var Helpers = {
-  maxVisibleWorkDescriptionLength: 20,
+  maxVisibleWorkDescriptionLength: 100,
   minWorkDescriptionLength: 5,
   maxWorkTime: 600,
 

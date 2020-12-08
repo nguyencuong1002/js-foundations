@@ -181,3 +181,6 @@
 	- define and use a helper (e.g. `makeDelegate(..)`) that creates an object instance that's prototype-delegated to another object, and which copies properties/methods onto the new instance
 	- write a set of tests that independently mocks each of `App`, `Application`, `UI`, and `Helpers` objects in the prototype-delegation chain to test all logic
 	- write out a detailed analysis, in your own words, of the pros/cons of this OLOO-style approach compared to the module/object/prototype approaches used in the previous exercises (5, 6, and 7).
+
+
+https://github.com/getify -- Kyle Simpson
